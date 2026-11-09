@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 临时页签图形，不是企业标志，也不是厂区照片 -->
+  <rect width="64" height="64" rx="14" fill="#1f3d32"/>
+  <ellipse cx="32" cy="34" rx="10" ry="18" fill="#f3e2c4"/>
+  <path d="M32 18v32" stroke="#1f3d32" stroke-width="2" fill="none"/>
+</svg>
